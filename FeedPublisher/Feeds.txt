@@ -1,0 +1,15 @@
+﻿http://feeds.feedburner.com/duanestorey
+http://syndication.thedailywtf.com/TheDailyWtf
+http://kdmurray.net/feed/atom/
+http://feeds.feedburner.com/ScottHanselman
+http://www.knightwise.com/index2.php?option=com_rss&feed=RSS2.0
+http://feeds.feedburner.com/hoyummy/fbrss
+http://feeds.feedburner.com/codinghorror
+http://blogs.msdn.com/oldnewthing/rss.xml
+http://feeds.haacked.com/haacked
+http://dailyrider.blogspot.com/feeds/posts/default
+http://www.vancouvergood.com/feed/atom/
+http://xkcd.com/rss.xml
+http://feeds.feedburner.com/wwdn
+http://randsinrepose.com/index.xml
+http://feeds.feedburner.com/zenhabits
